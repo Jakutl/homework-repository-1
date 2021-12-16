@@ -1,6 +1,6 @@
 # homework-repository-1
 
-## Project Notes
+## Homework Notes
 
 - Changed div to nav for better classification.
 - Fixed href link to scroll to id call.
